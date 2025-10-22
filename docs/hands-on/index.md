@@ -8,6 +8,7 @@ Our workshop includes a variety of hands-on labs to give you practical experienc
 
 | Name | Language | Description | Length |
 | ---- | -------- | ----------- | ------ |
+| **Infrastructure as Code Workshop** | Terraform/Bicep | Learn IaC with GitHub Copilot - Terraform, Bicep, and deployments | 2 hours |
 | **Javascript Calculator** | HTML/Javascript | A small app that serves as a good starter project | 20 mins |
 | **Rock Paper Scissor** | Python | A slightly more advanced app | 45 mins |
 | **Polaroid Image Gallery** | HTML/Javascript | Building a small image gallery with animations | 45 mins |
@@ -39,7 +40,10 @@ For more experienced users, try:
 
 ## Featured Labs 🌟
 
-In this workshop, we'll be focusing on two labs in particular:
+In this workshop, we'll be focusing on three labs in particular:
+
+### [Infrastructure as Code Workshop](iac-workshop.md) 🏗️
+Master Infrastructure as Code with GitHub Copilot! Learn to generate Terraform and Bicep configurations, convert between them, and deploy to Azure using Agent Mode. Perfect for DevOps engineers and cloud architects.
 
 ### [HTML Image Gallery](html-gallery.md) 🖼️
 Build an interactive image gallery with animations using HTML, CSS, and JavaScript. This lab demonstrates how GitHub Copilot can help with front-end development tasks.

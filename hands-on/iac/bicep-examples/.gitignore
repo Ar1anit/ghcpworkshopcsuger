@@ -1,0 +1,13 @@
+# Compiled Bicep files
+*.json
+!parameters*.json
+
+# Build outputs
+build/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
